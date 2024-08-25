@@ -1,9 +1,18 @@
 # Change Log
 
-All notable changes to the "three-lizards-snippets" extension will be documented in this file.
+## [0.0.2] - 2024-08-25
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added
 
-## [Unreleased]
+- Icon.
 
-- Initial release
+### Changed
+
+- Display name: Three Lizards Snippets.
+
+
+## [0.0.1] - 2024-08-24
+
+### Added
+
+- snippets (tlcrc)

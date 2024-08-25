@@ -1,9 +1,10 @@
 {
   "name": "three-lizards-snippets",
-  "displayName": "three-lizards-snippets",
+  "displayName": "Three Lizards Snippets",
   "publisher": "ThreeLizards",
-  "description": "",
-  "version": "0.0.1",
+  "description": "Snippets for Three Lizards Company",
+  "version": "0.0.2",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.92.0"
   },
