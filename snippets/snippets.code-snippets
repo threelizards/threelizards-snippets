@@ -1,0 +1,16 @@
+{
+    "create react compoment": {
+        "prefix": "tlcrc",
+        "body": [
+            "import React from 'react';",
+            "import { debugRendering } from '@/lib/debug/debuggers';",
+            "",
+            "const $1${TM_FILENAME}: React.FC = () => {",
+            "  debugRendering('$1${TM_FILENAME}');",
+            "  return <div>$1${TM_FILENAME}</div>",
+            "}",
+            "",
+            "export default $1${TM_FILENAME}"
+        ]
+    }
+}
