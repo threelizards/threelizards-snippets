@@ -1,6 +1,7 @@
 {
   "name": "three-lizards-snippets",
   "displayName": "three-lizards-snippets",
+  "publisher": "ThreeLizards",
   "description": "",
   "version": "0.0.1",
   "engines": {
