@@ -3,10 +3,8 @@
         "prefix": "tlcrc",
         "body": [
             "import React from 'react';",
-            "import { debugRendering } from '@/lib/debug/debuggers';",
             "",
             "const $1${TM_FILENAME_BASE}: React.FC = () => {",
-            "  debugRendering('$1${TM_FILENAME_BASE}');",
             "  return <div>$1${TM_FILENAME_BASE}</div>",
             "}",
             "",
